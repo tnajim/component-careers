@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "title": "Lead Frontend Engineer",
+    "type": "Full-Time",
+    "description": "We are looking for an experienced frontend engineer to join our innovative team in Seattle, WA. The ideal candidate has expertise in JavaScript, CSS, and modern frameworks like React or Vue.js, with a passion for crafting seamless user experiences.",
+    "location": "Seattle, WA",
+    "salary": "$85K - $95K",
+    "company": {
+      "name": "BlueWave Tech",
+      "description": "BlueWave Tech is a forward-thinking software company dedicated to building high-performance web applications. We foster a collaborative environment where creativity and technology merge.",
+      "contactEmail": "info@bluewave.io",
+      "contactPhone": "555-123-4567"
+    }
+  },
+  {
+    "id": "2",
+    "title": "UI Engineer (React & Redux)",
+    "type": "Full-Time",
+    "location": "Austin, TX",
+    "description": "Seeking a UI engineer to craft intuitive and visually stunning web applications in Austin, TX. Experience with design systems and a deep understanding of state management in modern web applications are key for this role.",
+    "salary": "$80K - $90K",
+    "company": {
+      "name": "Pixel Forge",
+      "description": "Pixel Forge is a creative agency specializing in user interface and experience design. We thrive on building pixel-perfect designs that push the boundaries of innovation.",
+      "contactEmail": "careers@pixelforge.com",
+      "contactPhone": "555-234-5678"
+    }
+  },
+  {
+    "id": "3",
+    "title": "React.js Software Engineer",
+    "type": "Full-Time",
+    "location": "Denver, CO",
+    "description": "We are hiring a frontend-focused software engineer in Denver, CO. If you enjoy problem-solving, building robust UIs, and collaborating with backend teams, this is the role for you!",
+    "salary": "$75K - $85K",
+    "company": {
+      "name": "Summit Digital",
+      "description": "Summit Digital is a tech-driven company providing businesses with cutting-edge digital solutions. Our team is dedicated to crafting seamless online experiences.",
+      "contactEmail": "jobs@summitdigital.com",
+      "contactPhone": "555-345-6789"
+    }
+  },
+  {
+    "id": "4",
+    "title": "React Frontend Specialist",
+    "type": "Part-Time",
+    "description": "We are seeking a highly skilled frontend specialist for a part-time role in San Diego, CA. This role offers flexible hours and the chance to work on engaging projects with a passionate development team.",
+    "location": "San Diego, CA",
+    "salary": "$65K - $75K",
+    "company": {
+      "name": "BrightPath Studios",
+      "description": "BrightPath Studios is a digital solutions company focused on web and mobile development. We take pride in delivering outstanding products that elevate brands.",
+      "contactEmail": "hello@brightpath.dev",
+      "contactPhone": "555-456-7890"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Full Stack Developer (React & Node.js)",
+    "type": "Full-Time",
+    "description": "We are searching for a full-stack developer in Chicago, IL, who loves working with React and Node.js. If you are passionate about performance optimization and scalable applications, apply now!",
+    "location": "Chicago, IL",
+    "salary": "$95K - $105K",
+    "company": {
+      "name": "NorthWind Technologies",
+      "description": "NorthWind Technologies specializes in building scalable and efficient digital products. We foster a culture of collaboration, learning, and innovation.",
+      "contactEmail": "work@northwindtech.com",
+      "contactPhone": "555-567-8901"
+    }
+  },
+  {
+    "id": "6",
+    "title": "React Native Mobile Developer",
+    "type": "Full-Time",
+    "description": "We are looking for a React Native developer to join our growing mobile team in Raleigh, NC. If you love working on cross-platform applications and delivering great user experiences, this is the perfect role for you!",
+    "location": "Raleigh, NC",
+    "salary": "$105K - $115K",
+    "company": {
+      "name": "AppWave Labs",
+      "description": "AppWave Labs is a cutting-edge mobile app development company focused on creating seamless digital experiences for users worldwide.",
+      "contactEmail": "careers@appwave.com",
+      "contactPhone": "555-678-9012"
+    }
+  }
+]
